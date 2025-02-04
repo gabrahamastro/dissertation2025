@@ -58,5 +58,5 @@ I recommend creating two separate `Conda` environments with which to run code (o
 - `numpy` 1.26.4
 - `pygimli` 1.5.3
 - `shapely` 2.0.6
-- `mpl_axes_aligner` (download locally from the [repository(https://github.com/ryutok/mpl_axes_aligner))
+- `mpl_axes_aligner` (download locally from the [repository](https://github.com/ryutok/mpl_axes_aligner))
 - `jupyterlab` 4.3.4
