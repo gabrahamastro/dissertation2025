@@ -27,11 +27,13 @@ Throughout this work, the following have been extensively used:
 Bott, M. H. P., & Tantrigoda, D. A. 1987. Interpretation of the gravity and magnetic anomalies over
 the Mull Tertiary intrusive complex, NW Scotland. _Journal of the Geological Society_, **144**(1), 17–28.
 
-Uieda, L. 2018. Verde: Processing and gridding spatial data using Green’s functions. _Journal of Open Source Software_, **3**(30), 957.
-
 Fatiando a Terra Project, Castro, Y. M., Esteban, F. D., Li, L., Oliveira J., Vanderlei C, Pesce, A., Shea, N., Soler, S. R., Souza-Junior, G. F., Tankersley, M., Uieda, L., & Uppal, I. 2024. _Harmonica v0.7.0: Forward modeling, inversion, and processing gravity and magnetic data._
 
 Rücker, C., Günther, T., & Wagner, F. M. 2017. pyGIMLi: An open-source library for modelling and inversion in geophysics. _Computers and Geosciences_, **109**, 106–123.
+
+Smalley, B. 2024. PHY-30027: _Data Analysis and Model Testing_. Lecture Notes (Keele University, UK).
+
+Uieda, L. 2018. Verde: Processing and gridding spatial data using Green’s functions. _Journal of Open Source Software_, **3**(30), 957.
 
 ## Packages Used
 I recommend creating two separate `Conda` environments with which to run code (one for modelling and one for processing gravity and aeromagnetic data), containing the following packages:
