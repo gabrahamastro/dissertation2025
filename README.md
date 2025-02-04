@@ -2,7 +2,7 @@
 The following contains scripts that I used with my dissertation (Keele University, 2024-25) entitled "Reprocessing of aeromagnetic and gravity data of the Mull Central Complex, Western Scotland". I also look to add the final dissertation and LaTeX files which go with this once it has been completed. 
 
 ## More Content
-Check out a short talk I gave at Keele University (January 2025; available [here](https://youtu.be/FvGF1hL2ERU) on the Geomagnetic field, where I briefly discuss the processed data used here, providing a wider context.
+Check out a short talk I gave at Keele University (January 2025; available [here](https://youtu.be/FvGF1hL2ERU)) on the Geomagnetic field, where I briefly discuss the processed data used here, providing a wider context.
 
 ## Acknowledgements 
 This project was completed with the help and support of my supervisor, [Dr. Ian Stimpson](https://www.keele.ac.uk/lifesci/ourpeople/ianstimpson/). Thank you, also, to the contributors of the [`harmonica`](https://www.fatiando.org/harmonica) and [`pyGIMLi`](https://www.pygimli.org) packages ([Prof. Leonardo Uieda](https://github.com/leouieda) and [Prof. Thomas Günther](https://github.com/halbmy)) for their help in answering questions I posed during the project. Tutorials on the package websites were also of great help in ensuring the code functioned. 
