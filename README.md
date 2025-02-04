@@ -17,6 +17,8 @@ The project consists of processing aeromagnetic and gravity data (in the `Aeroma
 
 Also, note that `AeromagCrossValScore.py` and `GravityCrossValScore.py` were run separately in a screen on a remote server, since this was quite computationally intensive. `Modelling.py` also contains a computationally intensive line when itterating through models (at the end), taking around 40 minutes to run.
 
+Those files which are provided by the BGS and the Ordenance Survey have been redacted but are freely available online (by following the links provided above).
+
 Finally, I have not been able to resolve a significant discrepency in the generated size of anomalies via modelling compared to those observed, hence why graphs contain two scales when showing modelled and observed anomalies.
 
 ## References
