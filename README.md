@@ -16,7 +16,7 @@ Work here is licenced using the `LICENCE` file. However, please note that this w
 ## Files Contained
 There are two folders, where `Report` contains the dissertation (LaTeX documents and PDF) and `Code` contains the Jupyter Notebooks, Python scripts and output files generated. Note, this is a working document, so changes will likely be made and the file structure may not be intuitive. 
 
-The project consists of processing aeromagnetic and gravity data (in the `Aeromagnetic` and `Gravity` folders). Then models were generated in the `Modelling/Gravity` folder, before the half width of anomalies modelled and generated from processed data were calculated in `Calc_FWHM.ipynb`. 
+The project consists of processing aeromagnetic and gravity data (in the `Aeromagnetic` and `Gravity` folders). Then models were generated in the `Modelling/Gravity` folder, before the half width of anomalies modelled and generated from processed data were calculated in `Calc_FWHM.ipynb` (whilst `Compare_Models_Data.ipynb` generates graphs to compare models and `Compare_to_original.ipynb` does this but for data from Bott & Tantrigoda 1987).
 
 Also, note that `AeromagCrossValScore.py` and `GravityCrossValScore.py` were run separately in a screen on a remote server, since this was quite computationally intensive. `Modelling.py` also contains a computationally intensive line when itterating through models (at the end), taking around 40 minutes to run.
 
